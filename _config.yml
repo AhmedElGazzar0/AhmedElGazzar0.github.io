@@ -12,7 +12,7 @@ lang: en-US
 title: "Ahmed EL Gazzar"
 
 # A description of your site for meta tag, search engine results.
-description: "Scriptor is a minimal, clean, modern & responsive Jekyll theme for writers"
+description: "Welcome to my personal page, where I write about my work, share my thoughts on stuff, summarize insightful work and rant. Mostly rant!"
 
 # The subpath of your site, e.g. /blog, for generating urls.
 baseurl: ""
@@ -30,13 +30,13 @@ google_analytics: ""
 navigation:
   - text: Home
     url: /
-  - text: About
+  - text: About Me
     url: /about/
-  - text: Style Guide
+  - text: My Work 
     url: /style-guide/
-  - text: Tags
+  - text: Blog
     url: /tags/
-  - text: Download
+  - text: Resume
     url: https://github.com/JustGoodThemes/Scriptor-Jekyll-Theme
 
 # The shortname for your Disqus site to enable comments.
